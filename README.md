@@ -1,1 +1,2 @@
-# Designing_digital_educational_environments
+# Проектирование цифровых образовательных сред
+# Илалов Максим
